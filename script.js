@@ -18,7 +18,7 @@ function hide () {
 }
 
 function color () {
-  document.body.style.backgroundColor = 'yellow' //Changes background color 
+  document.body.style.backgroundColor = 'yellow' // Changes background color
 }
 
 function show () {
